@@ -3,6 +3,9 @@ Binder
 
 Linseed oil for software. Combines Syphon/Spout with basic show control.
 
+Maybe this should be a Node-Webkit type thing? So you can use
+web pages as a source, too.
+
 Conceptually, we would like to run anything your OS can run and seamlessly switch between them.
 
 Binder provides simple output destination for shared-texture sources and
@@ -26,3 +29,9 @@ http://spout.zeal.co
 
 Syphon:
 http://syphon.v002.info
+
+Look at Sliider:
+https://github.com/vibber/Sliider
+
+Probably use Node-Webkit:
+https://github.com/rogerwang/node-webkit
